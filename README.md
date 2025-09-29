@@ -9,6 +9,6 @@ Play Online Lan on Any Combat Masters Build. Join The Discord
 | - | - |
 
 # All Builds (Download From Google Drive)
-| Version | ffewgew |
-| - | - |
-| 
+| Version | BuildID | Windows Manifest ID | Windows Manifest ID | Download |
+| - | - | - | - | - |
+| NA | 
